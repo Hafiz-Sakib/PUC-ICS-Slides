@@ -19,7 +19,7 @@ int main()
 
     /*
      * Start loop counter from 1, increment it by 1,
-     * will iterate till n
+     * will iterate till n!
      */
     for (i = 1; i <= n; i++)
     {
