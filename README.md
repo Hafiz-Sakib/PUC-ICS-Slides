@@ -1,5 +1,9 @@
-# Premier University,Chittagong.ICS Course
+### Premier University,Chittagong
 
-## (Mentor: Puja Chakraborty)
+### Course Name : Introduction To Computer Systems (ICS)
 
-### Contributed By [Sakib](https://github.com/Hafiz-Sakib) & [Assad](https://github.com/Montyvhai007)
+### Course Mentor : [ Puja Chakraborty](https://www.facebook.com/puja.chakraborty.564)
+
+### All Problems Solved By: [Hafiz Sakib](https://www.facebook.com/Sakib1056)
+
+### Contributed By [Sakib](https://www.facebook.com/Sakib1056) & [Assad](https://github.com/Montyvhai007)
